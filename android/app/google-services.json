@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405769289915",
+    "firebase_url": "https://filterairdesa-default-rtdb.firebaseio.com",
+    "project_id": "filterairdesa",
+    "storage_bucket": "filterairdesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405769289915:android:07ee31263fed46d0a5699e",
+        "android_client_info": {
+          "package_name": "com.example.filterair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405769289915-uas8o7r3g56rdm8q1q049is2m05539um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filterair",
+            "certificate_hash": "500b942fb54a1a52e67fd846805cf482ae4be231"
+          }
+        },
+        {
+          "client_id": "405769289915-e6g4s116ku8aj23nj5jgt06sgdjkt948.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUcOvmVCOlOGamKagLXp2Lq8B7-UmWU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405769289915-e6g4s116ku8aj23nj5jgt06sgdjkt948.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
